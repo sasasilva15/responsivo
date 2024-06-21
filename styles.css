@@ -1,11 +1,13 @@
-:root{
-    --cor-de-fundo: #EBECEE;
+*{
+    margin: 0;
+    padding: 0;
 }
 
-body{
-    backgroung-color: var(--cor-de-fundo)
-}
 
-h1{
-    background-color: rgb(243, 243, 243);
+
+.cabecalho {
+    background-color: rgb(10, 9, 9) (255, 0, 0);
+color: aliceblue;
+
+
 }
